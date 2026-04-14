@@ -22,19 +22,19 @@ and beyond.
 ## 🧰 Tech Stack
 
 **Languages**
-C · C++ · Java · Python · JavaScript · TypeScript
+C · C++ · Java · Python
 
 **Frontend**
-React · HTML5 · CSS · Tailwind CSS
+React · HTML5 · CSS · Tailwind CSS · JavaScript · TypeScript
 
 **Backend**
-Node.js · REST APIs
+Node.js · REST APIs · Express
 
 **Database**
 PostgreSQL · TypeORM
 
 **Tools**
-Git · GitHub · Vite · VS Code · npm
+Git · GitHub · VS Code · Docker · npm
 
 ---
 
@@ -60,14 +60,15 @@ active development. Here's a brief overview:
 
 A full-stack productivity web application designed to help users manage
 focused study sessions using the Pomodoro technique. Built with React,
-TypeScript, Node.js, and PostgreSQL.
+TypeScript, Node.js, Express, and PostgreSQL.
 
-### Ceylan Law Office Website — Frontend Application
-*January 2026 – Present*
+### DoTask — Full Stack Application
+*April 2026 – Present*
 
-A responsive law office website built with React and TypeScript,
-featuring a modern UI and an integrated OpenAI-powered chat assistant
-for visitor inquiries.
+DoTask is a full-stack productivity web application designed to help users 
+efficiently manage and track on their daily tasks — all in one place. 
+Whether you're organizing a busy workday or simply keeping track of personal goals, 
+DoTask provides a clean and intuitive interface to stay on top of what matters most.
 
 > 🚧 Both projects are currently in development.
 > Repositories will be made public upon completion.
