@@ -21,10 +21,10 @@ and beyond.
 ## 🧰 Tech Stack
 
 **Languages**
-Python
+JavaScript · TypeScript · Python
 
 **Frontend**
-React · HTML5 · CSS · Tailwind CSS · JavaScript · TypeScript
+React · HTML5 · CSS · Tailwind CSS
 
 **Backend**
 Node.js · REST APIs · Express
@@ -42,10 +42,10 @@ Git · GitHub · VS Code · Docker · npm
 ### Frontend Developer Intern — DNA Tech / Brandwallet
 *December 2024 – Present · Istanbul, Turkey*
 
-- Developed reusable UI components using React.js
-- Collaborated with designers and developers to implement responsive layouts
-- Enhanced user experience by improving UI structure and usability
-- Assisted in debugging and optimizing frontend code
+- Built reusable React.js components to improve code consistency and maintainability across the project.
+- Worked alongside design and backend teams to develop responsive web interfaces.
+- Improved page layouts and navigation to enhance usability across different screen sizes.
+- Debugged frontend issues and made small optimizations to improve application performance.
 
 ---
 
@@ -55,21 +55,21 @@ My current projects are in private repositories as they are still under
 active development. Here's a brief overview:
 
 ### StudyJam — Full Stack Productivity App
-*February 2026 – Present*
+*February 2026*
 
 A full-stack productivity web application designed to help users manage
 focused study sessions using the Pomodoro technique. Built with React,
 TypeScript, Node.js, Express, and PostgreSQL.
 
-### Ceylan Law Office 🏛️ — Full Stack Application
-*February 2026 – Present*
+### Ceylan Law Office — Full Stack Application
+*February 2026*
 
 A mock law office web application developed for learning purposes. 
 This project simulates a real-world law firm platform with core 
 client management features and an AI-powered virtual assistant.
 
 ### DoTask — Full Stack Application
-*April 2026 – Present*
+*April 2026*
 
 A full-stack task management app for organizing daily workflows
 with persistent task tracking and an 
