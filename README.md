@@ -13,7 +13,6 @@ and beyond.
 - 🎓 Studying Software Development at **Istanbul Aydin University**
 - 💼 Currently working as a **Frontend Developer Intern** at **DNA Tech / Brandwallet**
 - 🌱 Always learning — currently deepening my knowledge of **Node.js**, **PostgreSQL** and **TypeScript**
-- 💡 Interested in all areas of software — web, systems, algorithms, and more
 - 🛠️ I enjoy turning ideas into real, usable products
 - 📍 Based in Istanbul, Turkey
 
@@ -22,7 +21,7 @@ and beyond.
 ## 🧰 Tech Stack
 
 **Languages**
-C · C++ · Java · Python
+Python
 
 **Frontend**
 React · HTML5 · CSS · Tailwind CSS · JavaScript · TypeScript
@@ -31,7 +30,7 @@ React · HTML5 · CSS · Tailwind CSS · JavaScript · TypeScript
 Node.js · REST APIs · Express
 
 **Database**
-PostgreSQL · TypeORM
+PostgreSQL
 
 **Tools**
 Git · GitHub · VS Code · Docker · npm
@@ -72,10 +71,9 @@ client management features and an AI-powered virtual assistant.
 ### DoTask — Full Stack Application
 *April 2026 – Present*
 
-DoTask is a full-stack productivity web application designed to help users 
-efficiently manage and track on their daily tasks — all in one place. 
-Whether you're organizing a busy workday or simply keeping track of personal goals, 
-DoTask provides a clean and intuitive interface to stay on top of what matters most.
+A full-stack task management app for organizing daily workflows
+with persistent task tracking and an 
+AI-powered chatbot for productivity suggestions.
 
 > 🚧 All projects are currently in development.
 > Repositories will be made public upon completion.
