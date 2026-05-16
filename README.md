@@ -62,6 +62,13 @@ A full-stack productivity web application designed to help users manage
 focused study sessions using the Pomodoro technique. Built with React,
 TypeScript, Node.js, Express, and PostgreSQL.
 
+### Ceylan Law Office 🏛️ — Full Stack Application
+*February 2026 – Present*
+
+A mock law office web application developed for learning purposes. 
+This project simulates a real-world law firm platform with core 
+client management features and an AI-powered virtual assistant.
+
 ### DoTask — Full Stack Application
 *April 2026 – Present*
 
@@ -70,7 +77,7 @@ efficiently manage and track on their daily tasks — all in one place.
 Whether you're organizing a busy workday or simply keeping track of personal goals, 
 DoTask provides a clean and intuitive interface to stay on top of what matters most.
 
-> 🚧 Both projects are currently in development.
+> 🚧 All projects are currently in development.
 > Repositories will be made public upon completion.
 
 ---
